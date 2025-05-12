@@ -20,6 +20,7 @@ select {
   padding: 5px;  
   border-radius: 5px;  
   border: 1px solid #ccc;  
+  cursor: pointer;
 }  
 
 ul {  
@@ -38,4 +39,4 @@ li {
 li:hover {  
   background: #eaeaea;  
 }  
- 
+   
